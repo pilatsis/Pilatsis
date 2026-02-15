@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+#👋 Hi, I'm Simos
 
 ## About Me
 [Write a brief introduction about yourself - who you are, what you do, your interests]
@@ -7,8 +7,13 @@
 [List your programming languages, frameworks, and tools]
 
 ## Current Projects
-- [Project 1 name and brief description]
-- [Project 2 name and brief description]
+- Dioristeon (Private)
+
+A web-based system designed to monitor government appointment queues, featuring real-time filtering capabilities, alert notifications, and admin control panels.
+
+🧾 IBInsurance (Private)
+
+Web platform for managing customer insurance policies and contracts with renewal automation, editing workflows, and admin reporting.
 
 ## What I'm Learning
 [What you're currently studying or exploring]
