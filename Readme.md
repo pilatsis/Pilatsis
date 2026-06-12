@@ -6,7 +6,7 @@
 ***
 
 # 📖 About Me:
-Computer Science & Engineering undergraduate at Cyprus University of Technology, specializing in cybersecurity and software development. Currently building an LLM-powered autonomous penetration testing agent as my thesis — a system that plans and executes multi-stage web application attacks by combining large language model reasoning with real offensive security techniques. Proficient in Python, C++, JavaScript, and PHP, with hands-on experience in full-stack web development. Pursuing a career in offensive security and red team operations.
+Computer Science & Engineering undergraduate at Cyprus University of Technology, specializing in cybersecurity and software development. Currently building an LLM-powered autonomous penetration testing agent as my thesis — a system that plans and executes multi-stage web application attacks by combining large language model reasoning with real offensive security techniques. Proficient in Python, C++, JavaScript, and PHP, with hands-on experience in full-stack web development and hands-on experience in offensive security tooling, vulnerability exploitation and AI-driven attack orchestration
 ***
 
 ## 🗂️ Projects:
